@@ -140,7 +140,7 @@ The cap often have an umbo.
 *Lepiota* are fairly small species while *Macrolepiota* and *Chlorophyllum* are large.
 The spore print of *Chlorophyllum* is green but it is white in the other two genera.
 
-### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3]):
+### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
 Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
 The cap is often brown to greyish white in colour.
 The pore surface vary from whitish, pink, to yellow.
@@ -155,7 +155,7 @@ Most species in the group are ectomycorrhizal.
 They usually have a slimy veil, but this is sometimes difficult to observe.
 They form ectomycorrhiza with Pinaceae.
 
-### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3]):
+### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
 Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
 The cap is often brown to greyish white in colour.
 The pore surface vary from whitish, pink, to yellow.
@@ -181,7 +181,7 @@ Hydnum is another group of stipitate-capitate species with hydnoid sporocarps.
 They are not as tough as the species in Bankeraceae.
 They have white spores, and thefruiting bodies are white to orange.
 
-### Lycoperdaceae (*Lycoperdon*: 26, *Bovista*: 10, *Apioperdon* [1], *Disciseda* [3], *Langermannia* [1]):
+### Lycoperdaceae (*Lycoperdon*: 26, *Bovista*: 10, *Apioperdon* [1], *Disciseda* [3], *Langermannia* [1])
 This is the largest group of puff-balls, i.e. species that do not shoot their spores from the basidia but open the sporocarp in a poor or wider opening and let the dry spore mass spread by the wind.
 The sporocarp may be made to "puff" out the spores when hit by a force like a raindrop.
 *Lycoperdon* has a spongy stipe and open with a pore.
