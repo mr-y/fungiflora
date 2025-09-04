@@ -44,7 +44,7 @@ A group of ascomycetes with the hymenium in a flat disk (apothecia).
 
 ## Families and genera
 Numbers in parenthesis (regular or square) are number of species in the genus in Sweden.
-The taxonomy follow artfakta.se.
+The taxonomy follow [artfakta.se](https://artfakta.se).
 Many of the groups described here may also contain gastroid, truffle like, sporocarps which is not included in the descriptions below.
 
 ### *Cortinarius* (476)
