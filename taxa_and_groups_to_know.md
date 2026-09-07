@@ -187,7 +187,7 @@ The sporocarp may be made to "puff" out the spores when hit by a force like a ra
 They are recognized by that the outer layer of the sporocarp breaks up 
 
 ### *Ramaria* (45) and *Phaeoclavulina* (7)
-*Ramaria* and *Phaeoclavulina* are two genera that lack cap but have branched mushrooms (clavarioid), compared to fingers in Swedish.
+*Ramaria* and *Phaeoclavulina* are two genera that lack cap but have branched mushrooms (clavarioid). Their Swedish name compares them to fingers.
 There are many genera with similar shaped mushrooms, but these are the two genera that form the largest mushrooms.
 They vary in color from whitish (pink or grey) to yellow.
 *Ramaria* includes both ectomycorrhizal species and decomposers while *Phaeoclavulina* are decayers.
