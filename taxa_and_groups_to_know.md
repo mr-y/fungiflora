@@ -174,7 +174,7 @@ The sporocarp may be made to "puff" out the spores when hit by a force like a ra
 
 ### *Geastrum* (22)
 *Geastrum* is the main group of earth stars, and is also a type of puff-balls.
-They are recognized by that the outer layer of the sporocarp breaks up 
+They are recognized by that the outer layer of the sporocarp breaks up into pointed segments.
 
 ### *Ramaria* (45) and *Phaeoclavulina* (7)
 *Ramaria* and *Phaeoclavulina* are two genera that lack cap but have branched mushrooms (clavarioid). Their Swedish name compares them to fingers.
