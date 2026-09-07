@@ -66,11 +66,11 @@ Most species are fairly small but robust.
 ### *Entoloma* (159)
 *Entoloma* is a very diverse group of mainly small species.
 Some authors split this genus into several separate genera.
-The main thing that separate them out is that they have pink/red (flesh brown) angular spores.
-There are some other groups with pink/red spores but the diversity of *Entoloma* makes it difficult to give a macroscopic trait that separates the.
-As these are generally smaller genera it is easier to learn them separately as they encountered.
-Two of the more frequently encountered *Pluteus* with free lamella and plane often brown cap and *Clitopilus* that are infundibiliform and whitish.
-Both these genera are usually larger than most *Entoloma*.
+The main thing that separate *Entoloma* from other groups is that they have pink/red (flesh brown) angular spores.
+There are some other groups with pink/red spores but the diversity of *Entoloma* makes it difficult to give a macroscopic trait that separates it.
+As the other genera with pink/red spores are smaller it is easier to learn them separately as they are encountered.
+Two of the more frequently encountered are *Pluteus* with free lamella and plane often brown cap and *Clitopilus* that are infundibiliform and whitish.
+Both these genera usually have larger sporocarps than most *Entoloma*.
 
 ### *Russula* [152], *Lactarius* [87], and *Lactifluus* [6]
 The stipitate capitate members of Rusulaceae have flesh that give a clear break instead of breaking up in threads.
