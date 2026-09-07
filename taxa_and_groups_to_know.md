@@ -55,6 +55,8 @@ The spores often get caught in the remnants of the cortina on the stipe.
 The species can vary between small to fairly large, but are usually fairly robust, so not thin fleshed or narrow stipe.
 Some species are slimy on the cap or cap and stipe, which may make them shiny, but if they are not they are often fairy matte in colour even if they may be colourful.
 
+![Cortinarius sp.](https://live.staticflickr.com/1917/43932976435_39a08dd91c_w.jpg)
+
 ### Inocybaceae (*Inocybe* [163], *Pseudosperma* [13], *Inosperma* [14], *Mallocybe* [15])
 Inocybaceae is a group of brown spored species.
 The cap is usually in different shades of brown, but some species are white or with other colour.
@@ -62,6 +64,8 @@ The cap surface is characterized by having fibers radiating from the center towa
 Sometimes the surface is also splitting up showing the context below.
 The cap is often umbonate and conical to plane in shape.
 Most species are fairly small but robust.
+
+![Pseudosperma sp.](https://live.staticflickr.com/1872/44843551941_8a94ec8dd2_w.jpg)
 
 ### *Entoloma* (159)
 *Entoloma* is a very diverse group of mainly small species.
@@ -78,19 +82,25 @@ The consistency is sometimes compared to cheese.
 You should then think feta cheese.
 The cap of *Russula* is often plane and with bright colors, while *Lactarius* and *Lactifluus* are usually depressed to infundibuliform and lactate (produce a milky latex) when cut.
 
+
+
 ### *Mycena* (91)
 *Mycena* usually have thin conical to ovate caps (but can become plane) and thin stipe.
 They have white spores. There are some other smaller genera that are similar to *Mycena* but this is the large bulk of species in this group.
 
+![Mycena sp](https://live.staticflickr.com/5509/10677731824_17b545f866_w.jpg)
+
 ### *Tricholoma* (60)
 *Tricholoma* have sinuate to noched lamella, white spores and fleshy stipe (robust).
 
-### *Coprinopsis* (54)
+### *Coprinopsis* (54) and *Coprinellus* (13)
 This is the largest genus of ink-caps, that is mushrooms with dark brown - black spores for which the lamellae dissolve  on maturation so that a dark liquid is formed.
 The cap is usually conical to ovoid and the cap thin fleshed.
 The stipe may be thin in some species.
 The mushroom may be very small to fairly large and often grows in groups or even in masses (for small mushrooms).
 There are some other genera of ink-caps like *Parasola* (13) and *Coprinus* (4), of which the later is not closely related to the former.
+
+![Coprinellus cf. micaceus](https://live.staticflickr.com/65535/51520568029_503a2a0928_w.jpg)
 
 ### Cantharellus (4) and Craterellus (7)
 The species of these genera have decurrent hymenium that is lammelate, wrinkled or smooth.
@@ -108,6 +118,8 @@ Yellow-red to orange-brown in colour.
 The wax caps *Hygrophorus* and *Hygrocybe* are recognized by that they appear to be covered by a layer of wax.
 They have white spores, and the lamella are usually distant and often adnate or decurrent.
 *Hygrophorus* are ectomycorrhizal and usually larger and not as bright coloured as *Hygrocybe* that often have red or yellow colours.
+
+![Hygrocybe sp.](https://live.staticflickr.com/8191/8077240040_d65a0ddcc2_w.jpg)
 
 ### *Agaricus* (39)
 *Agaricus* have dark brown spores.
@@ -127,6 +139,8 @@ Lamella free or slightly adnexed.
 Universal veil, often leaving a volva or scales at the base of the stipe and sometimes leaving patches on the cap.
 Many species also have a partial veil leaving a more or less visible ring on the stipe.
 
+![Amanita excelsa](https://live.staticflickr.com/65535/51519048207_b015f1b3f6_w.jpg)
+
 ### *Clitocybe* (29)
 Lamella usually decurrent with white (to dull vinaceous brown) spores.
 Cap plane to funnel shaped.
@@ -140,6 +154,8 @@ The cap often have an umbo.
 *Lepiota* are fairly small species while *Macrolepiota* and *Chlorophyllum* are large.
 The spore print of *Chlorophyllum* is green but it is white in the other two genera.
 
+![Lepiota sp.](https://live.staticflickr.com/65535/51509275772_6c0033ab2a_w.jpg)
+
 ### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
 Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
 The cap is often brown to greyish white in colour.
@@ -150,10 +166,14 @@ The group is now split up in many, often small, genera.
 The largest *Leccinum* is recognized by having a stipe with often dark small scales.
 Most species in the group are ectomycorrhizal.
 
+![Imleria badia](https://live.staticflickr.com/65535/51430090734_761498658b_w.jpg)
+
 ### Suillus (11)
 *Suillus* are stipitate-capitate with a poroid nymeniophore.
 They usually have a slimy veil, but this is sometimes difficult to observe.
 They form ectomycorrhiza with Pinaceae.
+
+
 
 ### Bankeraceae (*Hydnellum* [28], *Sarcodon* [3], *Phellodon* [12], *Boletopsis* [2])
 Bankeraceae is a group of capitate stipitate species with, except for *Boletopsis*, hydnoid hymeniophore and usually fairly tough flesh (like leather or cork).
@@ -176,6 +196,8 @@ The sporocarp may be made to "puff" out the spores when hit by a force like a ra
 *Geastrum* is the main group of earth stars, and is also a type of puff-balls.
 They are recognized by that the outer layer of the sporocarp breaks up into pointed segments.
 
+![Geastrum michelianum](https://live.staticflickr.com/65535/49594723573_0fcce13e22_w.jpg)
+
 ### *Ramaria* (45) and *Phaeoclavulina* (7)
 *Ramaria* and *Phaeoclavulina* are two genera that lack cap but have branched mushrooms (clavarioid). Their Swedish name compares them to fingers.
 There are many genera with similar shaped mushrooms, but these are the two genera that form the largest mushrooms.
@@ -183,12 +205,14 @@ They vary in color from whitish (pink or grey) to yellow.
 *Ramaria* includes both ectomycorrhizal species and decomposers while *Phaeoclavulina* are decayers.
 *Ramaria* is probably not monophyletic and may be split up at some point.
 
+![Ramaria sp.](https://live.staticflickr.com/65535/51422052355_beb9174238_w.jpg)
+
 ### Phellinus s.lat. (s. str. 9)
 Is a group of polypores that are brownish in colour and turn black when exposed to KOH.
 They have a tough consistency and often have saete in the hymenium (need lens to see).
 They may have a cap or be resupinate (pressed to the surface they grow on).
 The species of *Phellinus* has lately often been divided into several genera, but the foundation for this is not solid, so some authors prefer to still keep them togather.
 
-
+![Porodaedalea pini](https://live.staticflickr.com/65535/51433483209_08273db81d_w.jpg)
 
 
