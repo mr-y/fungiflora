@@ -174,7 +174,7 @@ Bankeraceae is a group of capitate stipitate species with, except for *Boletopsi
 ### *Hydnum* (8)
 Hydnum is another group of stipitate-capitate species with hydnoid sporocarps.
 They are not as tough as the species in Bankeraceae.
-They have white spores, and thefruiting bodies are white to orange.
+They have white spores, and the fruiting bodies are white to orange.
 
 ### Lycoperdaceae (*Lycoperdon*: 26, *Bovista*: 10, *Apioperdon* [1], *Disciseda* [3], *Langermannia* [1])
 This is the largest group of puff-balls, i.e. species that do not shoot their spores from the basidia but open the sporocarp in a poor or wider opening and let the dry spore mass spread by the wind.
