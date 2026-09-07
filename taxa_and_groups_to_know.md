@@ -197,7 +197,7 @@ They vary in color from whitish (pink or grey) to yellow.
 Is a group of polypores that are brownish in colour and turn black when exposed to KOH.
 They have a tough consistency and often have saete in the hymenium (need lens to see).
 They may have a cap or be resupinate (pressed to the surface they grow on).
-The species of *Phellinus* has lately often been divided into several genera, but the foundation for this is not solid, so some authors prefer to keep still keep them togather.
+The species of *Phellinus* has lately often been divided into several genera, but the foundation for this is not solid, so some authors prefer to still keep them togather.
 
 
 
