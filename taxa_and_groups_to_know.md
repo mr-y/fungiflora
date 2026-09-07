@@ -150,11 +150,6 @@ The group is now split up in many, often small, genera.
 The largest *Leccinum* is recognized by having a stipe with often dark small scales.
 Most species in the group are ectomycorrhizal.
 
-### Suillus (11)
-*Suillus* are stipitate-capitate with a poroid nymeniophore.
-They usually have a slimy veil, but this is sometimes difficult to observe.
-They form ectomycorrhiza with Pinaceae.
-
 ### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
 Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
 The cap is often brown to greyish white in colour.
