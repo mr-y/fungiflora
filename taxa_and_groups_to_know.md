@@ -22,7 +22,7 @@ Taxa with porelayer that cannot be easily separated from the sporocarp.
 ### Hydnoid
 Hymeniophore shaped like spines.
 
-### Clavioid
+### Clavrioid
 Hymenium on one or several upright branches.
 
 ### Gastroids
@@ -139,16 +139,6 @@ Cap usually plane at maturity, and scaly.
 The cap often have an umbo.
 *Lepiota* are fairly small species while *Macrolepiota* and *Chlorophyllum* are large.
 The spore print of *Chlorophyllum* is green but it is white in the other two genera.
-
-### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
-Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
-The cap is often brown to greyish white in colour.
-The pore surface vary from whitish, pink, to yellow.
-Some have a bluening reaction when touched, bruised or cut.
-The sporocarps are robust.
-The group is now split up in many, often small, genera.
-The largest *Leccinum* is recognized by having a stipe with often dark small scales.
-Most species in the group are ectomycorrhizal.
 
 ### Boletaceae (Aureoboletus [3], Boletus [4], Buchwaldoboletus [2], Butyriboletus [3], Caloboletus [2], Chalciporus [1], Chamonixia [1], Cyanoboletus [1], Hemileccinum [2], Hortiboletus [3], Imleria [1], Imperator [1], Leccinellum [2], Leccinum [14], Neoboletus [2], Octaviania [2], Phylloporus [1], Porphyrellus [1], Pseudoboletus [1], Rubroboletus [3], Strobilomyces [1], Suillellus [3], Tylopilus [1], Xerocomellus [6], Xerocomus [3])
 Boletaceae is a group that are stipitate and capitate with a poroid hymeniophore (or exceptionally lammlate) that has a spongy consistency and can be separated from the cap (with few exceptions).
